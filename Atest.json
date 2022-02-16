@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "author": "galaxy#9074",
+        "version": "1.0.0",
+        "name": "Earth"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/928435642638151750\/943434211396829184\/Picsart_22-02-16_03-10-35-745.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 0,
+        "background": 0,
+        "accent": -15050679,
+        "mention_highlight": -1627455488,
+        "statusbar": -15118208,
+        "blocked_bg": -10057046,
+        "input_background": -15118208,
+        "active_channel": -9277076
+    },
+    "colors": {
+        "primary_dark_300": -15466343,
+        "primary_dark_800": 1459824,
+        "primary_dark_630": 54982,
+        "primary_dark_400": -16767104,
+        "primary_dark_200": -16749731,
+        "primary_dark_700": 16781889
+    },
+    "drawable_tints": {
+        "ic_status_dnd_16dp": -10223616,
+        "ic_status_idle_16dp": -5534464,
+        "ic_status_invisible_16dp": -16769718,
+        "ic_status_online_16dp": -16745465,
+        "ic_status_streaming_16dp": -6470656
+    },
+    "raws": {}
+}
